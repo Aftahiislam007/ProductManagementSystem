@@ -1,0 +1,12 @@
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\bin\Debug\net6.0\Domain.dll
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\bin\Debug\net6.0\Domain.pdb
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\Domain.dll
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\Domain.pdb
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -1,0 +1,15 @@
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\bin\Debug\net6.0\DataAccessEF.deps.json
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\bin\Debug\net6.0\DataAccessEF.dll
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\bin\Debug\net6.0\DataAccessEF.pdb
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\bin\Debug\net6.0\Domain.dll
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\bin\Debug\net6.0\Domain.pdb
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.AssemblyReference.cache
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\DataAccessEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfoInputs.cache
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfo.cs
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CoreCompileInputs.cache
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CopyComplete
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\DataAccessEF.dll
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\refint\DataAccessEF.dll
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\DataAccessEF.pdb
+E:\ASP.NET Practices\Aftahiislam007\ProductManagementSystem\ProductManagement\DataAccessEF\obj\Debug\net6.0\ref\DataAccessEF.dll
